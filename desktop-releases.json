@@ -6,9 +6,9 @@
     "signature": "hFZH2KHG919cfZinwEp0SkwsvciOMrFl5ZlO0q2DDZD5zAJ3czE/zoSAluyntyhGH5YREnaTTobVvdNqDqRRpR9cn6Oc4ITPiLgzv8+Gy5HqrMJ2FbaA9vkGMTN5LtuNkf0diapU2ca71ChaWIwOtQVWkJIhtmjCCJlbCx8R6FQ8FXWWwLCPI2YRdNVptpVt+khTgSgo7HNZSNtKllXLcIpkBsXbDgZC3Sv1H3C8I115nOFqRMHOKQ/OjgbjmQWatadsFMw5RwdBpsy8z4dh0qHxaUyXek1DcNJtWE3VlOodcnlp5MRkYyBfNMyZYdqImIcDDyVjDqudrFCvc5TDEA==",
     "beta": {
         "minimumVersion": "0.14.5",
-        "latestVersion": "1.11.5",
-        "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/obsidian-1.11.5.asar.gz",
-        "hash": "Gr/TDdWT13XmOkLlvCr3GJh4/F42dfcB9U59OB0+LLQ=",
-        "signature": "hFZH2KHG919cfZinwEp0SkwsvciOMrFl5ZlO0q2DDZD5zAJ3czE/zoSAluyntyhGH5YREnaTTobVvdNqDqRRpR9cn6Oc4ITPiLgzv8+Gy5HqrMJ2FbaA9vkGMTN5LtuNkf0diapU2ca71ChaWIwOtQVWkJIhtmjCCJlbCx8R6FQ8FXWWwLCPI2YRdNVptpVt+khTgSgo7HNZSNtKllXLcIpkBsXbDgZC3Sv1H3C8I115nOFqRMHOKQ/OjgbjmQWatadsFMw5RwdBpsy8z4dh0qHxaUyXek1DcNJtWE3VlOodcnlp5MRkYyBfNMyZYdqImIcDDyVjDqudrFCvc5TDEA=="
+        "latestVersion": "1.11.6",
+        "downloadUrl": "https://releases.obsidian.md/release/obsidian-1.11.6.asar.gz",
+        "hash": "gayIxFdBwAGF2BlxRtvcyrMHVygVn7zLCFcxZdKGalQ=",
+        "signature": "AS/fsfTS7CGBPFNR+yd9Imu47+nDhDQcGC3qxVP4K8twuwXf2aIJJcmYZHmCAkgs2YwNOUUwTz24x7leXW4DF6LLYmi7eDicDgLLmTNEfvvlO9kE4z+nTWDFsv8UPY/Pek9oTYx4WBCwAoXjfp5AM3S44cC3OQXXNWnSGHxOvRmk1DyquRltwaOt1EorVIfnFC1ifDLgiNj0uRH7Z6Aa0r8yexprzJVkYcsXmNm23VUa1EsNG8+kEsMLi0S5Eh8UJ7RiQTZxG0SOJKUfja4keTB2Ym39tcw8KjIUzFwQFiKSE1yTuyGKhIlB8IrVojYcYKBNFvPBrPGFUROqaTqYcw=="
     }
 }
